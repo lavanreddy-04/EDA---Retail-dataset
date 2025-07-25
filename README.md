@@ -1,4 +1,5 @@
 🎆 Diwali Sales Analysis 📊
+
 📌 Project Overview:
 
 The Diwali Sales Analysis project aims to extract meaningful business insights from a retail dataset containing Diwali festival sales data. The dataset includes customer demographics, product categories, purchase amounts, and transaction details. This project focuses on analyzing the sales patterns during the festive season to support data-driven decisions related to marketing, inventory management, and customer segmentation.
@@ -95,5 +96,17 @@ Business Intelligence: Generated insights to support strategic decision-making i
 The dataset was provided for academic and project purposes, typically sourced from platforms like Kaggle or custom datasets shared for Diwali sales scenarios.
 
 Fields include: User_ID, Gender, Age, Occupation, City_Category, Product_ID, Product_Category, Purchase, etc.
+
+📈 Sample Visualizations:
+
+Include sample charts (screenshots or actual plots using matplotlib/seaborn) showing:
+
+Purchase vs Age
+
+Purchase by Gender
+
+Top Product Categories
+
+Total Sales per City
 
 
